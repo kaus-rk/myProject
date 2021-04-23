@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://www.pyszne.pl/",
+  "chromeWebSecurity": false,
+  "video": true
+}
