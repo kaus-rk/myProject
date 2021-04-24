@@ -14,7 +14,7 @@ The test steps are included in <code>takeaway.spec.js</code> inside <code>demoFo
 # Test steps :
 1. User opens homepage
 2. User searches for address
-3. User selects restaurant and add 3 items in basket
+3. User selects restaurant and adds 3 items in basket
 4. User proceeds the checkout without entering mandatory details
 5. User adds mandatory details and proceeds with PayPal
 6. User cancels PayPal payment and proceeds with cash
