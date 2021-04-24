@@ -14,6 +14,8 @@
 # Test suite :
 The test steps are included in <code>takeaway.spec.js</code> inside <code>demoFolder/cypress/integration/assignment</code>
 
+PageObjects are defined inside <code>demoFolder/cypress/support/page_objects</code>
+
 # Test steps :
 1. User opens homepage
 2. User searches for address
