@@ -5,6 +5,9 @@
 3. Navigate to <code>demoFolder</code>
 4. Install cypress using <code> npm install cypress --save-dev </code>
 5. Open cypress using <code> node_modules/.bin/cypress open </code>
+6. Click on <code>takeaway.spec.js</code> in the test runner
+<img width="799" alt="test-runner" src="https://user-images.githubusercontent.com/82906434/115956423-df4cd380-a4fc-11eb-9477-5e9d28059a9d.png">
+
 
 
 
@@ -23,4 +26,5 @@ The test steps are included in <code>takeaway.spec.js</code> inside <code>demoFo
 # Note :
 I have tried running the test on <code>Chrome 90</code>,<code>FF 86</code> and <code>Electron 89</code> 
 but always got the page shown below
-<img width="1353" alt="no-access" src="https://user-images.githubusercontent.com/82906434/115956040-e8d53c00-a4fa-11eb-9e1d-ab8f6acec988.png">
+
+<img width="799" alt="no-access" src="https://user-images.githubusercontent.com/82906434/115956040-e8d53c00-a4fa-11eb-9e1d-ab8f6acec988.png">
