@@ -11,7 +11,7 @@ const successpage = new SuccessPage();
 
 describe("Poland Checkout : using cash payment", function () {
   it("it will open homepage", () => {
-    cy.visit("/");
+    cy.visit("/",{ failOnStatusCode: false });
     cy.wait(3000);
     misc.headerTitle().contains("Czas zamówić jedzenie");
   });
@@ -25,7 +25,7 @@ describe("Poland Checkout : using cash payment", function () {
 
   it("it will select restaurant & add 3 items in basket", () => {
     // Select Test restaurant selenium
-    cy.wait(15000);
+    cy.wait(5000);
     misc.testRestSelenium().click();
 
     // Add Duck breast in basket
