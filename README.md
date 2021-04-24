@@ -3,9 +3,10 @@
 1. Download the zip for this project
 2. Open it in VS code
 3. Navigate to <code>demoFolder</code>
-4. Install cypress using <code> npm install cypress --save-dev </code>
-5. Open cypress using <code> node_modules/.bin/cypress open </code>
-6. Click on <code>takeaway.spec.js</code> in the test runner
+4. Make sure Node.js 12 or 14 and above is present
+5. Install cypress using <code> npm install cypress --save-dev </code>
+6. Open cypress using <code> node_modules/.bin/cypress open </code>
+7. Click on <code>takeaway.spec.js</code> in the test runner
 <img width="799" alt="test-runner" src="https://user-images.githubusercontent.com/82906434/115956423-df4cd380-a4fc-11eb-9477-5e9d28059a9d.png">
 
 
