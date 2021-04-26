@@ -17,6 +17,8 @@ The test steps are included in <code>takeaway.spec.js</code> inside <code>demoFo
 
 PageObjects are defined inside <code>demoFolder/cypress/support/page_objects</code>
 
+baseUrl is set as <code>https://www.pyszne.pl/</code> in <code>cypress.json</code>
+
 # Test steps :
 1. User opens homepage
 2. User searches for address
